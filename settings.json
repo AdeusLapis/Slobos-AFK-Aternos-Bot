@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ADEUS_LAPIS.aternos.me",
+    "ip": "ADEUS_LAPIS.aternos.me:40565",
     "port": 40565,
     "version": "",
     "try-creative": false
